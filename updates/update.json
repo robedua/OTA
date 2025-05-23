@@ -1,1 +1,12 @@
-
+{
+  "default": {
+    "version": "1.2.0",
+    "url": "https://raw.githubusercontent.com/seuprojeto/firmwares/main/default.bin"
+  },
+  "custom": {
+    "ESP32-XYZ123ABC456": {
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/seuprojeto/firmwares/main/custom_XYZ123ABC456.bin"
+    }
+  }
+}
