@@ -1,0 +1,12 @@
+{
+  "default": {
+    "version": "0.0.11",
+    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/Prototipo_de_campo.ino.bin"
+  },
+  "custom": {
+    "9C9C1FEA46E8": {
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/9C9C1FEA46E8.ino.bin"
+    }
+  }
+}
