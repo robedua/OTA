@@ -1,6 +1,6 @@
 {
   "default": {
-    "version": "0.0.16",
+    "version": "0.0.17",
     "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/Prototipo_de_campo.ino.bin",
     "log": {
       "texto": "Novidade:\n\n- 📦 Atualização padrão:\n- Correção de bugs\n- Melhoria no algoritmo\n- Estabilidade aprimorada"
@@ -8,7 +8,7 @@
   },
   "custom": {
     "9C9C1FEA46E8": {
-      "version": "0.0.16",
+      "version": "0.0.17",
       "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/9C9C1FEA46E8.ino.bin",
       "log": {
         "texto": "Novidade:\n\n-> 🛠️ Atualização personalizada:\n-> Parâmetros específicos para unidade 9C9C1FEA46E8\n-> CORREÇÂO NA LEITURA DOS SENSORES DS18B20."
