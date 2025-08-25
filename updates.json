@@ -1,7 +1,7 @@
 {
   "default": {
     "version": "0.0.21",
-    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/Prototipo_de_campo.ino.bin",
+    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/Prototipo_de_campo.bin",
     "log": {
       "texto": [
         "Novidade:",
@@ -16,7 +16,7 @@
   "custom": {
     "9C9C1FEA46E8": {
       "version": "0.0.21",
-      "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/9C9C1FEA46E8.ino.bin",
+      "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/9C9C1FEA46E8.bin",
       "log": {
         "texto": [
           "Correção no bug:",
@@ -29,5 +29,6 @@
     }
   }
 }
+
 
 
