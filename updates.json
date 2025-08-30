@@ -1,6 +1,6 @@
 {
   "default": {
-    "version": "0.0.18",
+    "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/Prototipo_de_campo.bin",
     "log": {
       "texto": "Novidade:\n\n- 📦 Atualização padrão:\n- Correção de bugs\n- Melhoria no algoritmo\n- Estabilidade aprimorada"
@@ -8,7 +8,7 @@
   },
   "custom": {
     "9C9C1FEA46E8": {
-      "version": "0.0.18",
+      "version": "0.0.1",
       "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/9C9C1FEA46E8.bin",
       "log": {
         "texto": "Correção no bug:\n\n-> 🛠️ Atualização personalizada:\n-> Parâmetros específicos para unidade 9C9C1FEA46E8\n-> Mesmo alterando o valor de referência máxima do alerta do ambiente e nutrição o led de erro permanecia piscando."
@@ -16,6 +16,7 @@
     }
   }
 }
+
 
 
 
