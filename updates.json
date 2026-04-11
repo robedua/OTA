@@ -1,7 +1,7 @@
 {
   "default": {
     "version": "0.0.19",
-    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/Prototipo_de_campo.bin",
+    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/firmware.bin",
     "log": {
       "texto": "Novidade:\n\n- 📦 Atualização padrão:\n- Correção de bugs\n- Melhoria no algoritmo\n- Estabilidade aprimorada"
     }
