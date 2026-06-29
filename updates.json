@@ -1,7 +1,7 @@
 {
   "default": {
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/SCHidro_SCHidro_Basic_20260629.bin",
+    "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/SCHidro_Basic_20260629.bin",
     "log": {
       "texto": "Novidade:\n\n- 📦 Atualização padrão:\n- Correção de bugs\n- Melhoria no algoritmo\n- Estabilidade aprimorada"
     }
