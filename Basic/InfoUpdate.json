@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "Atualização v2.3.1 - Teste Extenso",
+    "data": "19/07/2025",
+    "changelog": "- Correção de bugs importantes no sistema de conexão.\n- Melhoria significativa na estabilidade da aplicação."
+  },
+  {
+    "titulo": "Atualização v2.3.0",
+    "data": "10/06/2025",
+    "changelog": "- Otimização do sistema de economia de energia.\n- Melhorias no desempenho geral.\n- Suporte a novos sensores externos."
+  },
+  {
+    "titulo": "Atualização v2.2.5",
+    "data": "05/05/2025",
+    "changelog": "- Correção de falha intermitente na conexão Wi-Fi.\n- Ajuste fino no sistema de logs internos."
+  },
+  {
+    "titulo": "Atualização v2.2.0",
+    "data": "20/04/2025",
+    "changelog": "- Adição do modo técnico com dados detalhados.\n- Melhorias no sistema de notificações."
+  },
+  {
+    "titulo": "Atualização v2.1.0",
+    "data": "15/03/2025",
+    "changelog": "- Lançamento inicial do sistema OTA seguro.\n- Interface de configuração do Telegram adicionada."
+  }
+]
