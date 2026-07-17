@@ -1,6 +1,6 @@
 {
   "default": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/robedua/OTA/refs/heads/main/SCHidro_2R2SNWFSB_TL_20260629.bin",
     "log": {
       "texto": "Novidade:\n\n- 📦 Atualização padrão:\n- Correção de bugs\n- Melhoria no algoritmo\n- Estabilidade aprimorada"
